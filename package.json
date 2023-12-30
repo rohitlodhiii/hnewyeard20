@@ -1,6 +1,6 @@
 {
-  "name": "NYW greetings",
-  "description": "NYW for wishing new year greetings",
+  "name": "greetings",
+  "description": "for wishing new year greetings",
   "version": "0.1.0",
   "private": true,
   "author": "Rohit lodhi",
